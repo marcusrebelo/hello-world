@@ -1,2 +1,3 @@
 # hello-world
-short description
+#Simple hello-world test for python
+print('Hello, world!')
